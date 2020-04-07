@@ -2,14 +2,14 @@
     "files": {
         "index.html": "/draw-on-it/index.html",
         "main.css": "/draw-on-it/static/css/main.205cf813.chunk.css",
-        "main.js": "/draw-on-it/static/js/main.32cb3775.chunk.js",
-        "main.js.map": "/draw-on-it/static/js/main.32cb3775.chunk.js.map",
+        "main.js": "/draw-on-it/static/js/main.7c6fdf95.chunk.js",
+        "main.js.map": "/draw-on-it/static/js/main.7c6fdf95.chunk.js.map",
         "runtime-main.js": "/draw-on-it/static/js/runtime-main.48f461f5.js",
         "runtime-main.js.map": "/draw-on-it/static/js/runtime-main.48f461f5.js.map",
         "static/css/2.de424728.chunk.css": "/draw-on-it/static/css/2.de424728.chunk.css",
         "static/js/2.3dcd5ddc.chunk.js": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js",
         "static/js/2.3dcd5ddc.chunk.js.map": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.map",
-        "precache-manifest.6541b4176abaf721cb9ff00983a9cb23.js": "/draw-on-it/precache-manifest.6541b4176abaf721cb9ff00983a9cb23.js",
+        "precache-manifest.7657875e0e7d929e1aeaee251d5d98d4.js": "/draw-on-it/precache-manifest.7657875e0e7d929e1aeaee251d5d98d4.js",
         "static/css/2.de424728.chunk.css.map": "/draw-on-it/static/css/2.de424728.chunk.css.map",
         "static/css/main.205cf813.chunk.css.map": "/draw-on-it/static/css/main.205cf813.chunk.css.map",
         "static/js/2.3dcd5ddc.chunk.js.LICENSE.txt": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
         "static/css/2.de424728.chunk.css",
         "static/js/2.3dcd5ddc.chunk.js",
         "static/css/main.205cf813.chunk.css",
-        "static/js/main.32cb3775.chunk.js"
+        "static/js/main.7c6fdf95.chunk.js"
     ]
 }
