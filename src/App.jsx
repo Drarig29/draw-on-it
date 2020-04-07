@@ -25,13 +25,26 @@ class App extends React.Component {
         this.canvas.current.drawImage();
     }
 
+    undo = () => {
+        this.canvas.current.undo();
+    }
+
+    clear = () => {
+        this.canvas.current.clear();
+    }
+
+    save = () => {
+        
+    }
+
     render() {
         return (
             <div className="App">
-                <Button>Annuler</Button>
-                <Button>Effacer</Button>
-                <Button>Sauvegarder</Button>
-                <CanvasDraw className="canvas" ref={this.canvas} imgSrc={this.state.imgSrc} canvasWidth={this.state.canvasWidth} canvasHeight={this.state.canvasHeight}
+                <Button onClick={this.undo}>Annuler</Button>
+                <Button onClick={this.clear}>Effacer</Button>
+                <Button onClick={this.save}>Sauvegarder</Button>
+                <CanvasDraw className="canvas" ref={this.canvas} brushColor="red" brushRadius={2} lazyRadius={0} hideInterface={false}
+                    imgSrc={this.state.imgSrc} canvasWidth={this.state.canvasWidth} canvasHeight={this.state.canvasHeight}
                     hideGrid={true} />
             </div>
         )

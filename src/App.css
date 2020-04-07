@@ -10,3 +10,11 @@ body {
 .canvas {
     margin: auto auto;
 }
+
+.App {
+    padding: 10px;
+}
+
+.btn {
+    margin-right: 10px;
+}
