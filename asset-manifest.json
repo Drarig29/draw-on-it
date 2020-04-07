@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.205cf813.chunk.css",
-    "main.js": "/static/js/main.a2927c5b.chunk.js",
-    "main.js.map": "/static/js/main.a2927c5b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4d33088d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4d33088d.js.map",
-    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.3dcd5ddc.chunk.js": "/static/js/2.3dcd5ddc.chunk.js",
-    "static/js/2.3dcd5ddc.chunk.js.map": "/static/js/2.3dcd5ddc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d2176db82812afd701a92055f0c1cfab.js": "/precache-manifest.d2176db82812afd701a92055f0c1cfab.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.205cf813.chunk.css.map": "/static/css/main.205cf813.chunk.css.map",
-    "static/js/2.3dcd5ddc.chunk.js.LICENSE.txt": "/static/js/2.3dcd5ddc.chunk.js.LICENSE.txt"
+    "main.css": "/draw-on-it/static/css/main.205cf813.chunk.css",
+    "main.js": "/draw-on-it/static/js/main.47a760c5.chunk.js",
+    "main.js.map": "/draw-on-it/static/js/main.47a760c5.chunk.js.map",
+    "runtime-main.js": "/draw-on-it/static/js/runtime-main.48f461f5.js",
+    "runtime-main.js.map": "/draw-on-it/static/js/runtime-main.48f461f5.js.map",
+    "static/css/2.de424728.chunk.css": "/draw-on-it/static/css/2.de424728.chunk.css",
+    "static/js/2.3dcd5ddc.chunk.js": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js",
+    "static/js/2.3dcd5ddc.chunk.js.map": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.map",
+    "index.html": "/draw-on-it/index.html",
+    "precache-manifest.a7b986ef8873c6d9f0ff8f4c4934cfb0.js": "/draw-on-it/precache-manifest.a7b986ef8873c6d9f0ff8f4c4934cfb0.js",
+    "service-worker.js": "/draw-on-it/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/draw-on-it/static/css/2.de424728.chunk.css.map",
+    "static/css/main.205cf813.chunk.css.map": "/draw-on-it/static/css/main.205cf813.chunk.css.map",
+    "static/js/2.3dcd5ddc.chunk.js.LICENSE.txt": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d33088d.js",
+    "static/js/runtime-main.48f461f5.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.3dcd5ddc.chunk.js",
     "static/css/main.205cf813.chunk.css",
-    "static/js/main.a2927c5b.chunk.js"
+    "static/js/main.47a760c5.chunk.js"
   ]
 }
