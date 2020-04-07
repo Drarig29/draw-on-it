@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: #64b5f6;
+    background: #64b5f6 !important;
     min-height: 100%;
 }
 
