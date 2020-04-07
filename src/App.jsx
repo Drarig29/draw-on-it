@@ -7,7 +7,7 @@ class App extends React.Component {
 
     constructor(props) {
         super(props);
-        this.state = { imgSrc: "", canvasHeight: "400px" };
+        this.state = { imgSrc: "", canvasWidth: "400px", canvasHeight: "400px" };
         this.canvas = createRef();
     }
 
@@ -15,9 +15,9 @@ class App extends React.Component {
         let img = new Image();
         img.src = "https://i.imgur.com/oKYIL7y.jpg";
         img.onload = () => {
-            const currentWidth = this.canvas.current.canvasContainer.clientWidth;
-            let height = (img.height / img.width) * currentWidth;
-            this.setState({ imgSrc: img.src, canvasHeight: `${height}px` });
+            let width = window.innerWidth * .6;
+            let height = (img.height / img.width) * width;
+            this.setState({ imgSrc: img.src, canvasWidth: `${width}px`, canvasHeight: `${height}px` });
         };
     }
 
@@ -28,8 +28,10 @@ class App extends React.Component {
     render() {
         return (
             <div className="App">
-                <Button>Hello</Button>
-                <CanvasDraw className="canvas" ref={this.canvas} imgSrc={this.state.imgSrc} canvasWidth="70%" canvasHeight={this.state.canvasHeight}
+                <Button>Annuler</Button>
+                <Button>Effacer</Button>
+                <Button>Sauvegarder</Button>
+                <CanvasDraw className="canvas" ref={this.canvas} imgSrc={this.state.imgSrc} canvasWidth={this.state.canvasWidth} canvasHeight={this.state.canvasHeight}
                     hideGrid={true} />
             </div>
         )
