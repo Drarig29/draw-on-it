@@ -2,9 +2,10 @@
   "name": "draw-on-it",
   "version": "1.0.0",
   "description": "A simple app to share a drawable image, and share it back.",
+  "homepage": "/draw-on-it",
   "scripts": {
     "start": "react-scripts start",
-    "build": "SET PUBLIC_URL=/draw-on-it&& react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

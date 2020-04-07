@@ -1,24 +1,25 @@
 {
-    "files": {
-        "index.html": "/draw-on-it/index.html",
-        "main.css": "/draw-on-it/static/css/main.205cf813.chunk.css",
-        "main.js": "/draw-on-it/static/js/main.47a760c5.chunk.js",
-        "main.js.map": "/draw-on-it/static/js/main.47a760c5.chunk.js.map",
-        "runtime-main.js": "/draw-on-it/static/js/runtime-main.48f461f5.js",
-        "runtime-main.js.map": "/draw-on-it/static/js/runtime-main.48f461f5.js.map",
-        "static/css/2.de424728.chunk.css": "/draw-on-it/static/css/2.de424728.chunk.css",
-        "static/js/2.3dcd5ddc.chunk.js": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js",
-        "static/js/2.3dcd5ddc.chunk.js.map": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.map",
-        "precache-manifest.a7b986ef8873c6d9f0ff8f4c4934cfb0.js": "/draw-on-it/precache-manifest.a7b986ef8873c6d9f0ff8f4c4934cfb0.js",
-        "static/css/2.de424728.chunk.css.map": "/draw-on-it/static/css/2.de424728.chunk.css.map",
-        "static/css/main.205cf813.chunk.css.map": "/draw-on-it/static/css/main.205cf813.chunk.css.map",
-        "static/js/2.3dcd5ddc.chunk.js.LICENSE.txt": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.LICENSE.txt"
-    },
-    "entrypoints": [
-        "static/js/runtime-main.48f461f5.js",
-        "static/css/2.de424728.chunk.css",
-        "static/js/2.3dcd5ddc.chunk.js",
-        "static/css/main.205cf813.chunk.css",
-        "static/js/main.47a760c5.chunk.js"
-    ]
+  "files": {
+    "main.css": "/draw-on-it/static/css/main.205cf813.chunk.css",
+    "main.js": "/draw-on-it/static/js/main.32cb3775.chunk.js",
+    "main.js.map": "/draw-on-it/static/js/main.32cb3775.chunk.js.map",
+    "runtime-main.js": "/draw-on-it/static/js/runtime-main.48f461f5.js",
+    "runtime-main.js.map": "/draw-on-it/static/js/runtime-main.48f461f5.js.map",
+    "static/css/2.de424728.chunk.css": "/draw-on-it/static/css/2.de424728.chunk.css",
+    "static/js/2.3dcd5ddc.chunk.js": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js",
+    "static/js/2.3dcd5ddc.chunk.js.map": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.map",
+    "index.html": "/draw-on-it/index.html",
+    "precache-manifest.505166e1e624f2c906f794707294acf1.js": "/draw-on-it/precache-manifest.505166e1e624f2c906f794707294acf1.js",
+    "service-worker.js": "/draw-on-it/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/draw-on-it/static/css/2.de424728.chunk.css.map",
+    "static/css/main.205cf813.chunk.css.map": "/draw-on-it/static/css/main.205cf813.chunk.css.map",
+    "static/js/2.3dcd5ddc.chunk.js.LICENSE.txt": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48f461f5.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3dcd5ddc.chunk.js",
+    "static/css/main.205cf813.chunk.css",
+    "static/js/main.32cb3775.chunk.js"
+  ]
 }
