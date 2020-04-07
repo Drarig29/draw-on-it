@@ -13,7 +13,7 @@ class App extends React.Component {
 
     componentDidMount() {
         let img = new Image();
-        img.src = "https://i.imgur.com/oKYIL7y.jpg";
+        img.src = new URL(document.location.href).searchParams.get('image');
         img.onload = () => {
             let width = window.innerWidth * .6;
             let height = (img.height / img.width) * width;
@@ -34,7 +34,7 @@ class App extends React.Component {
     }
 
     save = () => {
-        
+        alert("Prenez une capture d'écran !");
     }
 
     render() {
