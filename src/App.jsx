@@ -18,8 +18,8 @@ class App extends React.Component {
             let width = window.innerWidth * .6;
             let height = (img.height / img.width) * width;
             this.setState({ imgSrc: img.src, canvasWidth: `${width}px`, canvasHeight: `${height}px` });
-            console.log("Image loaded.");
-            setTimeout(() => this.canvas.current.drawImage(), 100);
+            console.log("Image loaded.", width, height);
+            setTimeout(() => this.canvas.current.drawImage(), 200);
         };
     }
 
