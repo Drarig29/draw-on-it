@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2799aa5878d632338c01081286134f0d",
+    "revision": "5e3d60b553eef6350af903e401577683",
     "url": "/draw-on-it/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/draw-on-it/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "a9ea2e9fa21753661e44",
+    "revision": "6087142f98db2d7902d7",
     "url": "/draw-on-it/static/css/main.205cf813.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/draw-on-it/static/js/2.3dcd5ddc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9ea2e9fa21753661e44",
-    "url": "/draw-on-it/static/js/main.32cb3775.chunk.js"
+    "revision": "6087142f98db2d7902d7",
+    "url": "/draw-on-it/static/js/main.7c6fdf95.chunk.js"
   },
   {
     "revision": "ce9bdc06587404d1dbb8",
